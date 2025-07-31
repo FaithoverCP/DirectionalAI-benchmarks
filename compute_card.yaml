@@ -1,0 +1,5 @@
+date: '2025-07-31'
+energy_kwh: 6.1
+gpu_type: A100-80G
+tokens_processed: 178000000
+wall_time_min: 47
